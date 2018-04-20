@@ -1,0 +1,7 @@
+C:\Users\Sachin.Vastrad\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe.config
+C:\Users\Sachin.Vastrad\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe
+C:\Users\Sachin.Vastrad\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.pdb
+C:\Users\Sachin.Vastrad\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csprojResolveAssemblyReference.cache
+C:\Users\Sachin.Vastrad\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sachin.Vastrad\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.exe
+C:\Users\Sachin.Vastrad\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.pdb
